@@ -1,0 +1,25 @@
+
+# Student Result Analyzer
+
+## About the Project
+This is a simple Python project that calculates a student's total marks, percentage and grade based on marks entered by the user.
+
+## Features
+- Takes student name as input
+- Stores subject names and marks
+- Calculates total marks
+- Calculates percentage
+- Displays grade
+
+## Technologies Used
+- Python
+- VS Code
+
+## How to Run
+1. Install Python.
+2. Open the project in VS Code.
+3. Run main.py.
+4. Enter your name and subject marks.
+
+## Author
+Aanshvi Katiyar
